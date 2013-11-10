@@ -18,3 +18,8 @@ else:
     print "It's not a palindrome"
     
     
+#exersice 3
+
+
+
+
